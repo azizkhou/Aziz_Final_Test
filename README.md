@@ -32,7 +32,7 @@ mvn clean test
 ```sh
 ```
 ## Test run report
-![image](https://i.ibb.co/Nrhv7sr/Report.png)
+![image](https://i.imgur.com/en6uoEm.png)
 
 ## RestAPI (RestAssured)
 - Right click on RestAPI.java then Run
