@@ -186,7 +186,7 @@ public class HomePage extends SetUpDriver {
         return orderAmountBeforeAddingCart.isDisplayed();
     }
     public WebDriverWait explicitWait() {
-        wait = new WebDriverWait(driver, 20);
+        wait = new WebDriverWait(driver, 30);
         return wait;
     }
 

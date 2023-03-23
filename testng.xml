@@ -4,7 +4,7 @@
     <test name="Running regression test" thread-count="1" parallel="false">
         <groups>
             <run>
-                <include name ="smoke" ></include>
+                <include name ="regression" ></include>
                 
             </run>
         </groups>

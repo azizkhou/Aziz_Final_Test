@@ -101,7 +101,7 @@ public class HomePageTest extends SetUpDriver {
         homePage.paymentSection();
         homePage.Verify_PaymentSection_IsDisplayed();
     }
-    @Test(testName = "TC-8", priority = 8, groups = {"smoke"})
+    @Test(testName = "TC-8", priority = 8, groups = {"regression"})
     public void verifyPaymentOption_onPaymentPage() {
         homePage.ClickOnBuyNowButton();
         homePage.Click_On_CheckOutButton();
